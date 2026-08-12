@@ -1,6 +1,6 @@
 """
 Program Name: Ohio Unemployment Data Plot
-Author: Iafick
+Author: Imran Afick
 Purpose: Read Ohio unemployment data from a CSV file and create
          a time-series line plot using matplotlib.
 Starter Code: None. Created for Lab 16, Option 1.
@@ -10,7 +10,6 @@ Date: August 11, 2026
 import matplotlib.pyplot as plt
 import csv
 from datetime import datetime
-
 
 dates = []
 unemployment_rates = []
